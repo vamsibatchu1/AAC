@@ -45,6 +45,11 @@ Features
 }}
 
 
+.footers .card
+{
+	background-color: #e4f0ff !important;
+	border: 0px solid rgba(0,0,0,.125) !important;
+}
 
 
 
